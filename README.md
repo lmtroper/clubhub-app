@@ -2,9 +2,6 @@
 
 **App Description:** A hub for the student clubs at the University of Waterloo. Find clubs, join clubs, view announcements, keep up to date!
 
-*Designed and developed by: Aniq Premji, Fraser Morrison, Larissa Troper, Ryan Hu*
-*UI of Explore Page and Club Board Pages designed by Larissa Troper*
-
 ## Video Demo
 
 https://github.com/lmtroper/clubhub-app/assets/72565412/f0d6eec6-98ca-4868-979a-5533a00f2d2b
